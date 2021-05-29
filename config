@@ -106,7 +106,7 @@ host = /mainland/ct-gz~SLAVE_CODE /mainland/ct-sh~SLAVE_CODE /mainland/cu-gz~SLA
 menu = 广州电信
 title = 广州电信
 slaves = SLAVE_CODE
-host = 14.215.116.1
+host = 113.108.209.1
 
 ++ ct-sh
 
